@@ -1,0 +1,6 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: compileComputeKernel
+  insize=763 file=C:/Program Files (x86)/GitHub/Augmented-Reality-Artificial-Intelligence/Library/PackageCache/com.unity.barracuda@2.0.0/Barracuda/Runtime/Core/Resources/Barracuda/Conv2dA_NHWC.compute kernel=Conv2DKernel1x1_StrictC16K64_T16x16_R4x4_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<BLOCK_SIZE=4>,<KERNEL_1x1=1>,<STRICT_CHANNELS=1>,<SUFFIX=Kernel1x1_StrictC16K64_T16x16_R>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 ok=1 outsize=11445
+
